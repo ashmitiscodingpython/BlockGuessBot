@@ -1,0 +1,1753 @@
+{
+    "W1": {
+        "L6": [
+            "Allium",
+            "Azalea",
+            "Bamboo",
+            "Barrel",
+            "Basalt",
+            "Beacon",
+            "Bricks",
+            "Cactus",
+            "Candle",
+            "Cobweb",
+            "Gravel",
+            "Hopper",
+            "Ladder",
+            "Piston",
+            "Podzol",
+            "Smoker",
+            "Sponge",
+            "Target",
+            "Poster"
+        ],
+        "L8": [
+            "Andesite",
+            "Campfire",
+            "Cauldron",
+            "Farmland",
+            "Mycelium",
+            "Observer",
+            "Obsidian",
+            "Potatoes",
+            "Seagrass",
+            "Tripwire"
+        ],
+        "L5": [
+            "Anvil",
+            "Chest",
+            "Cocoa",
+            "Glass",
+            "Lever",
+            "Light",
+            "Lilac",
+            "Melon",
+            "Peony",
+            "Poppy",
+            "Sculk",
+            "Stone",
+            "Torch",
+            "Vault",
+            "Vines",
+            "Water",
+            "Board",
+            "Slate"
+        ],
+        "L7": [
+            "Barrier",
+            "Bedrock",
+            "Beehive",
+            "Calcite",
+            "Carrots",
+            "Conduit",
+            "Crafter",
+            "Diorite",
+            "Dropper",
+            "Furnace",
+            "Granite",
+            "Jukebox",
+            "Lantern",
+            "Lectern",
+            "Pumpkin"
+        ],
+        "L9": [
+            "Beetroots",
+            "Bookshelf",
+            "Composter",
+            "Dandelion",
+            "Deepslate",
+            "Dispenser",
+            "Frogspawn",
+            "Glowstone",
+            "Lodestone",
+            "Sandstone",
+            "Sunflower"
+        ],
+        "L4": [
+            "Bell",
+            "Bush",
+            "Cake",
+            "Clay",
+            "Dirt",
+            "Fern",
+            "Fire",
+            "Kelp",
+            "Lava",
+            "Loom",
+            "Rail",
+            "Sand",
+            "Snow",
+            "Tuff"
+        ],
+        "L10": [
+            "Blackstone",
+            "Cornflower",
+            "Grindstone",
+            "Netherrack",
+            "Prismarine",
+            "Terracotta"
+        ],
+        "L11": [
+            "Cobblestone",
+            "Scaffolding",
+            "Shroomlight",
+            "Stonecutter",
+            "Torchflower",
+            "Wildflowers"
+        ],
+        "L3": [
+            "Ice",
+            "Mud",
+            "TNT"
+        ]
+    },
+    "W2": {
+        "L6+6": [
+            "Acacia Button",
+            "Acacia Leaves",
+            "Acacia Planks",
+            "Acacia Stairs",
+            "Azalea Leaves",
+            "Bamboo Button",
+            "Bamboo Mosaic",
+            "Bamboo Planks",
+            "Bamboo Stairs",
+            "Bubble Column",
+            "Cactus Flower",
+            "Cherry Button",
+            "Cherry Leaves",
+            "Cherry Planks",
+            "Cherry Stairs",
+            "Chorus Flower",
+            "Jungle Button",
+            "Jungle Leaves",
+            "Jungle Planks",
+            "Jungle Stairs",
+            "Nether Bricks",
+            "Nether Portal",
+            "Orange Banner",
+            "Orange Candle",
+            "Orange Carpet",
+            "Purple Banner",
+            "Purple Candle",
+            "Purple Carpet",
+            "Purpur Pillar",
+            "Purpur Stairs",
+            "Quartz Bricks",
+            "Quartz Pillar",
+            "Quartz Stairs",
+            "Smooth Basalt",
+            "Spruce Button",
+            "Spruce Leaves",
+            "Spruce Planks",
+            "Spruce Stairs",
+            "Sticky Piston",
+            "Warped Button",
+            "Warped Fungus",
+            "Warped Hyphae",
+            "Warped Nylium",
+            "Warped Planks",
+            "Warped Stairs",
+            "Yellow Banner",
+            "Yellow Candle",
+            "Yellow Carpet"
+        ],
+        "L6+4": [
+            "Acacia Door",
+            "Acacia Sign",
+            "Acacia Slab",
+            "Acacia Wood",
+            "Bamboo Door",
+            "Bamboo Sign",
+            "Bamboo Slab",
+            "Cherry Door",
+            "Cherry Sign",
+            "Cherry Slab",
+            "Cherry Wood",
+            "Coarse Dirt",
+            "Copper Bars",
+            "Copper Bulb",
+            "Copper Door",
+            "Dragon Head",
+            "Jungle Door",
+            "Jungle Sign",
+            "Jungle Slab",
+            "Jungle Wood",
+            "Nether Wart",
+            "Orange Wool",
+            "Piglin Head",
+            "Player Head",
+            "Powder Snow",
+            "Purple Wool",
+            "Purpur Slab",
+            "Quartz Slab",
+            "Rooted Dirt",
+            "Spruce Door",
+            "Spruce Sign",
+            "Spruce Slab",
+            "Spruce Wood",
+            "Warped Door",
+            "Warped Sign",
+            "Warped Slab",
+            "Warped Stem",
+            "Wither Rose",
+            "Yellow Wool"
+        ],
+        "L6+5": [
+            "Acacia Fence",
+            "Acacia Shelf",
+            "Bamboo Fence",
+            "Bamboo Shelf",
+            "Bamboo Shoot",
+            "Bubble Coral",
+            "Cherry Fence",
+            "Cherry Shelf",
+            "Chorus Plant",
+            "Copper Chain",
+            "Copper Chest",
+            "Copper Grate",
+            "Copper Torch",
+            "Jigsaw Block",
+            "Jungle Fence",
+            "Jungle Shelf",
+            "Orange Tulip",
+            "Purpur Block",
+            "Smooth Stone",
+            "Spruce Fence",
+            "Spruce Shelf",
+            "Tinted Glass",
+            "Warped Fence",
+            "Warped Roots",
+            "Warped Shelf",
+            "Purple Torch"
+        ],
+        "L6+3": [
+            "Acacia Log",
+            "Cherry Log",
+            "Copper Ore",
+            "Dragon Egg",
+            "Flower Pot",
+            "Jungle Log",
+            "Orange Bed",
+            "Packed Ice",
+            "Packed Mud",
+            "Purple Bed",
+            "Spruce Log",
+            "Turtle Egg",
+            "Yellow Bed"
+        ],
+        "L6+7": [
+            "Acacia Sapling",
+            "Carved Pumpkin",
+            "Cherry Sapling",
+            "Copper Lantern",
+            "Jungle Sapling",
+            "Nether Sprouts",
+            "Spruce Sapling"
+        ],
+        "L6+8": [
+            "Acacia Trapdoor",
+            "Bamboo Trapdoor",
+            "Cherry Trapdoor",
+            "Copper Trapdoor",
+            "Crying Obsidian",
+            "Jungle Trapdoor",
+            "Orange Concrete",
+            "Purple Concrete",
+            "Spruce Trapdoor",
+            "Warped Trapdoor",
+            "Yellow Concrete"
+        ],
+        "L9+4": [
+            "Activator Rail",
+            "Sandstone Slab",
+            "Sandstone Wall",
+            "Structure Void"
+        ],
+        "L8+7": [
+            "Amethyst Cluster",
+            "Polished Diorite",
+            "Polished Granite",
+            "Compound Creator",
+            "Material Reducer"
+        ],
+        "L7+6": [
+            "Ancient Debris",
+            "Crimson Button",
+            "Crimson Fungus",
+            "Crimson Hyphae",
+            "Crimson Nylium",
+            "Crimson Planks",
+            "Crimson Stairs",
+            "Diorite Stairs",
+            "Exposed Copper",
+            "Granite Stairs",
+            "Magenta Banner",
+            "Magenta Candle",
+            "Magenta Carpet",
+            "Ominous Banner",
+            "Respawn Anchor"
+        ],
+        "L8+4": [
+            "Andesite Slab",
+            "Andesite Wall",
+            "Chiseled Tuff",
+            "Detector Rail",
+            "Mangrove Door",
+            "Mangrove Sign",
+            "Mangrove Slab",
+            "Mangrove Wood",
+            "Mushroom Stem",
+            "Polished Tuff",
+            "Redstone Lamp",
+            "Redstone Wire",
+            "Tripwire Hook"
+        ],
+        "L8+6": [
+            "Andesite Stairs",
+            "Chiseled Copper",
+            "Mangrove Button",
+            "Mangrove Leaves",
+            "Mangrove Planks",
+            "Mangrove Stairs",
+            "Oxidized Copper",
+            "Polished Basalt"
+        ],
+        "L5+5": [
+            "Azure Bluet",
+            "Birch Fence",
+            "Birch Shelf",
+            "Brain Coral",
+            "Dried Ghast",
+            "Ender Chest",
+            "Grass Block",
+            "Honey Block",
+            "Magma Block",
+            "Oxeye Daisy",
+            "Resin Clump",
+            "Short Grass",
+            "Slime Block",
+            "Wheat Crops",
+            "White Tulip",
+            "Green Torch"
+        ],
+        "L3+4": [
+            "Bee Nest",
+            "Hay Bale",
+            "Oak Door",
+            "Oak Sign",
+            "Oak Slab",
+            "Oak Wood",
+            "Red Sand",
+            "Red Wool"
+        ],
+        "L3+8": [
+            "Big Dripleaf",
+            "Oak Trapdoor",
+            "Red Concrete",
+            "Red Mushroom"
+        ],
+        "L5+6": [
+            "Birch Button",
+            "Birch Leaves",
+            "Birch Planks",
+            "Birch Stairs",
+            "Black Banner",
+            "Black Candle",
+            "Black Carpet",
+            "Brick Stairs",
+            "Brown Banner",
+            "Brown Candle",
+            "Brown Carpet",
+            "Green Banner",
+            "Green Candle",
+            "Green Carpet",
+            "Resin Bricks",
+            "Sculk Sensor",
+            "Stone Bricks",
+            "Stone Button",
+            "Stone Stairs",
+            "White Banner",
+            "White Candle",
+            "White Carpet"
+        ],
+        "L5+4": [
+            "Birch Door",
+            "Birch Sign",
+            "Birch Slab",
+            "Birch Wood",
+            "Black Wool",
+            "Brick Slab",
+            "Brick Wall",
+            "Brown Wool",
+            "Glass Pane",
+            "Green Wool",
+            "Heavy Core",
+            "Large Fern",
+            "Melon Stem",
+            "Sculk Vein",
+            "Stone Slab",
+            "Sugar Cane",
+            "White Wool"
+        ],
+        "L5+3": [
+            "Birch Log",
+            "Black Bed",
+            "Brown Bed",
+            "Green Bed",
+            "White Bed"
+        ],
+        "L5+7": [
+            "Birch Sapling",
+            "Blast Furnace",
+            "Spore Blossom",
+            "Trial Spawner"
+        ],
+        "L5+8": [
+            "Birch Trapdoor",
+            "Black Concrete",
+            "Brown Concrete",
+            "Brown Mushroom",
+            "Green Concrete",
+            "Sculk Catalyst",
+            "Sculk Shrieker",
+            "Small Dripleaf",
+            "White Concrete"
+        ],
+        "L5+10": [
+            "Black Terracotta",
+            "Brown Terracotta",
+            "Green Terracotta",
+            "White Terracotta"
+        ],
+        "L10+4": [
+            "Blackstone Slab",
+            "Blackstone Wall",
+            "Prismarine Slab",
+            "Prismarine Wall",
+            "Suspicious Sand"
+        ],
+        "L10+6": [
+            "Blackstone Stairs",
+            "Prismarine Bricks",
+            "Prismarine Stairs",
+            "Suspicious Gravel"
+        ],
+        "L4+6": [
+            "Blue Banner",
+            "Blue Candle",
+            "Blue Carpet",
+            "Blue Orchid",
+            "Cyan Banner",
+            "Cyan Candle",
+            "Cyan Carpet",
+            "Glow Lichen",
+            "Gray Banner",
+            "Gray Candle",
+            "Gray Carpet",
+            "Leaf Litter",
+            "Lime Banner",
+            "Lime Candle",
+            "Lime Carpet",
+            "Moss Carpet",
+            "Pink Banner",
+            "Pink Candle",
+            "Pink Carpet",
+            "Pink Petals",
+            "Tuff Bricks",
+            "Tuff Stairs"
+        ],
+        "L4+3": [
+            "Blue Bed",
+            "Blue Ice",
+            "Coal Ore",
+            "Cyan Bed",
+            "Gold Ore",
+            "Gray Bed",
+            "Iron Ore",
+            "Lily Pad",
+            "Lime Bed",
+            "Pink Bed"
+        ],
+        "L4+8": [
+            "Blue Concrete",
+            "Cyan Concrete",
+            "Gray Concrete",
+            "Iron Trapdoor",
+            "Lime Concrete",
+            "Pink Concrete",
+            "Soul Campfire",
+            "Tall Seagrass"
+        ],
+        "L4+10": [
+            "Blue Terracotta",
+            "Cyan Terracotta",
+            "Dark Prismarine",
+            "Gray Terracotta",
+            "Lime Terracotta",
+            "Open Eyeblossom",
+            "Pink Terracotta"
+        ],
+        "L4+4": [
+            "Blue Wool",
+            "Cyan Wool",
+            "Dead Bush",
+            "Dirt Path",
+            "Gray Wool",
+            "Iron Bars",
+            "Iron Door",
+            "Lime Wool",
+            "Pink Wool",
+            "Rose Bush",
+            "Soul Fire",
+            "Soul Sand",
+            "Soul Soil",
+            "Tuff Slab",
+            "Tuff Wall"
+        ],
+        "L4+5": [
+            "Bone Block",
+            "Cave Vines",
+            "Fire Coral",
+            "Horn Coral",
+            "Iron Chain",
+            "Moss Block",
+            "Note Block",
+            "Pink Tulip",
+            "Snow Block",
+            "Soul Torch",
+            "Tall Grass",
+            "Test Block",
+            "Tube Coral",
+            "Heat Block"
+        ],
+        "L7+5": [
+            "Brewing Stand",
+            "Chipped Anvil",
+            "Command Block",
+            "Crimson Fence",
+            "Crimson Roots",
+            "Crimson Shelf",
+            "Damaged Anvil",
+            "Hanging Roots",
+            "Pitcher Plant",
+            "Trapped Chest",
+            "Weeping Vines"
+        ],
+        "L7+8": [
+            "Budding Amethyst",
+            "Crimson Trapdoor",
+            "Magenta Concrete"
+        ],
+        "L11+5": [
+            "Cartography Table"
+        ],
+        "L8+9": [
+            "Chiseled Bookshelf",
+            "Chiseled Deepslate",
+            "Chiseled Sandstone",
+            "Infested Deepslate",
+            "Mangrove Propagule",
+            "Polished Deepslate"
+        ],
+        "L6+10": [
+            "Closed Eyeblossom",
+            "Gilded Blackstone",
+            "Orange Terracotta",
+            "Purple Terracotta",
+            "Yellow Terracotta"
+        ],
+        "L7+9": [
+            "Cobbled Deepslate",
+            "Pointed Dripstone",
+            "Verdant Froglight"
+        ],
+        "L11+4": [
+            "Cobblestone Slab",
+            "Cobblestone Wall",
+            "Torchflower Crop"
+        ],
+        "L11+6": [
+            "Cobblestone Stairs"
+        ],
+        "L8+5": [
+            "Crafting Table",
+            "Creaking Heart",
+            "Infested Stone",
+            "Mangrove Fence",
+            "Mangrove Roots",
+            "Mangrove Shelf",
+            "Redstone Torch",
+            "Skeleton Skull",
+            "Smithing Table",
+            "Twisting Vines",
+            "Hardened Glass"
+        ],
+        "L7+4": [
+            "Creeper Head",
+            "Crimson Door",
+            "Crimson Sign",
+            "Crimson Slab",
+            "Crimson Stem",
+            "Diorite Slab",
+            "Diorite Wall",
+            "Firefly Bush",
+            "Granite Slab",
+            "Granite Wall",
+            "Magenta Wool",
+            "Pitcher Crop",
+            "Powered Rail",
+            "Pumpkin Stem"
+        ],
+        "L3+6": [
+            "Cut Copper",
+            "End Portal",
+            "Mud Bricks",
+            "Oak Button",
+            "Oak Leaves",
+            "Oak Planks",
+            "Oak Stairs",
+            "Red Banner",
+            "Red Candle",
+            "Red Carpet",
+            "Sea Pickle",
+            "Wet Sponge"
+        ],
+        "L3+9": [
+            "Cut Sandstone",
+            "Red Sandstone"
+        ],
+        "L8+8": [
+            "Daylight Detector",
+            "Mangrove Trapdoor",
+            "Polished Andesite",
+            "Redstone Repeater"
+        ],
+        "L9+3": [
+            "Decorated Pot",
+            "Lightning Rod"
+        ],
+        "L9+6": [
+            "Deepslate Bricks",
+            "Flowering Azalea",
+            "Sandstone Stairs",
+            "Weathered Copper"
+        ],
+        "L9+5": [
+            "Deepslate Tiles",
+            "Dripstone Block",
+            "Fletching Table",
+            "Honeycomb Block",
+            "Structure Block"
+        ],
+        "L7+3": [
+            "Diamond Ore",
+            "Emerald Ore",
+            "Frosted Ice",
+            "Magenta Bed",
+            "Shulker Box",
+            "Sniffer Egg"
+        ],
+        "L10+5": [
+            "Enchanting Table",
+            "Underwater Torch"
+        ],
+        "L3+7": [
+            "End Gateway",
+            "Oak Sapling",
+            "Sea Lantern"
+        ],
+        "L3+3": [
+            "End Rod",
+            "Oak Log",
+            "Red Bed"
+        ],
+        "L3+5": [
+            "End Stone",
+            "Oak Fence",
+            "Oak Shelf",
+            "Red Tulip",
+            "Lab Table",
+            "Red Torch"
+        ],
+        "L6+9": [
+            "Golden Dandelion",
+            "Smooth Sandstone"
+        ],
+        "L8+11": [
+            "Infested Cobblestone"
+        ],
+        "L4+9": [
+            "Jack o'Lantern"
+        ],
+        "L7+10": [
+            "Magenta Terracotta"
+        ],
+        "L8+3": [
+            "Mangrove Log",
+            "Redstone Ore"
+        ],
+        "L7+7": [
+            "Monster Spawner"
+        ],
+        "L5+11": [
+            "Mossy Cobblestone"
+        ],
+        "L5+9": [
+            "Ochre Froglight"
+        ],
+        "L11+9": [
+            "Pearlescent Froglight"
+        ],
+        "L8+10": [
+            "Polished Blackstone",
+            "Redstone Comparator"
+        ],
+        "L3+10": [
+            "Red Terracotta"
+        ],
+        "L10+9": [
+            "Reinforced Deepslate"
+        ],
+        "L4+7": [
+            "Soul Lantern"
+        ],
+        "L7+11": [
+            "Element Constructor"
+        ],
+        "L10+3": [
+            "Underwater TNT"
+        ]
+    },
+    "W3": {
+        "L6+5+4": [
+            "Acacia Fence Gate",
+            "Bamboo Fence Gate",
+            "Cherry Fence Gate",
+            "Jungle Fence Gate",
+            "Nether Brick Slab",
+            "Nether Brick Wall",
+            "Smooth Stone Slab",
+            "Spruce Fence Gate",
+            "Warped Fence Gate"
+        ],
+        "L6+7+4": [
+            "Acacia Hanging Sign",
+            "Bamboo Hanging Sign",
+            "Cherry Hanging Sign",
+            "Jungle Hanging Sign",
+            "Spruce Hanging Sign",
+            "Warped Hanging Sign"
+        ],
+        "L6+8+5": [
+            "Acacia Pressure Plate",
+            "Bamboo Pressure Plate",
+            "Cherry Pressure Plate",
+            "Jungle Pressure Plate",
+            "Spruce Pressure Plate",
+            "Warped Pressure Plate",
+            "Wither Skeleton Skull",
+            "Zombie HeadBlue Torch"
+        ],
+        "L6+6+4": [
+            "Bamboo Mosaic Slab",
+            "Smooth Quartz Slab"
+        ],
+        "L6+6+6": [
+            "Bamboo Mosaic Stairs",
+            "Smooth Quartz Stairs"
+        ],
+        "L5+5+4": [
+            "Birch Fence Gate",
+            "Resin Brick Slab",
+            "Resin Brick Wall",
+            "Stone Brick Slab",
+            "Stone Brick Wall",
+            "Sweet Berry Bush"
+        ],
+        "L5+7+4": [
+            "Birch Hanging Sign"
+        ],
+        "L5+8+5": [
+            "Birch Pressure Plate",
+            "Brown Mushroom Block",
+            "Muddy Mangrove Roots",
+            "Stone Pressure Plate"
+        ],
+        "L5+8+6": [
+            "Black Concrete Powder",
+            "Brown Concrete Powder",
+            "Green Concrete Powder",
+            "Waxed Chiseled Copper",
+            "Waxed Oxidized Copper",
+            "White Concrete Powder"
+        ],
+        "L5+6+10": [
+            "Black Glazed Terracotta",
+            "Brown Glazed Terracotta",
+            "Green Glazed Terracotta",
+            "White Glazed Terracotta"
+        ],
+        "L5+7+3": [
+            "Black Shulker Box",
+            "Brown Shulker Box",
+            "Green Shulker Box",
+            "White Shulker Box"
+        ],
+        "L5+7+5": [
+            "Black Stained Glass",
+            "Brown Stained Glass",
+            "Chain Command Block",
+            "Green Stained Glass",
+            "White Stained Glass"
+        ],
+        "L5+2+8": [
+            "Block of Amethyst",
+            "Block of Redstone"
+        ],
+        "L5+2+6": [
+            "Block of Bamboo",
+            "Block of Copper",
+            "Block of Quartz"
+        ],
+        "L5+2+4": [
+            "Block of Coal",
+            "Block of Gold",
+            "Block of Iron"
+        ],
+        "L5+2+7": [
+            "Block of Diamond",
+            "Block of Emerald"
+        ],
+        "L5+2+9": [
+            "Block of Netherite"
+        ],
+        "L5+2+5": [
+            "Block of Resin"
+        ],
+        "L4+8+6": [
+            "Blue Concrete Powder",
+            "Cyan Concrete Powder",
+            "Gray Concrete Powder",
+            "Lime Concrete Powder",
+            "Pink Concrete Powder"
+        ],
+        "L4+6+10": [
+            "Blue Glazed Terracotta",
+            "Cyan Glazed Terracotta",
+            "Gray Glazed Terracotta",
+            "Lime Glazed Terracotta",
+            "Pink Glazed Terracotta"
+        ],
+        "L4+7+3": [
+            "Blue Shulker Box",
+            "Cyan Shulker Box",
+            "Gray Shulker Box",
+            "Lime Shulker Box",
+            "Pink Shulker Box"
+        ],
+        "L4+7+5": [
+            "Blue Stained Glass",
+            "Cyan Stained Glass",
+            "Gray Stained Glass",
+            "Lime Stained Glass",
+            "Pink Stained Glass"
+        ],
+        "L5+5+5": [
+            "Brain Coral Block"
+        ],
+        "L5+5+3": [
+            "Brain Coral Fan"
+        ],
+        "L6+5+5": [
+            "Bubble Coral Block",
+            "Nether Brick Fence"
+        ],
+        "L6+5+3": [
+            "Bubble Coral Fan"
+        ],
+        "L10+5+6": [
+            "Calibrated Sculk Sensor",
+            "Prismarine Brick Stairs"
+        ],
+        "L8+6+6": [
+            "Chiseled Nether Bricks",
+            "Stripped Warped Hyphae"
+        ],
+        "L8+8+10": [
+            "Chiseled Polished Blackstone"
+        ],
+        "L8+6+5": [
+            "Chiseled Quartz Block",
+            "Oxidized Copper Chain",
+            "Oxidized Copper Chest",
+            "Oxidized Copper Grate"
+        ],
+        "L8+3+9": [
+            "Chiseled Red Sandstone"
+        ],
+        "L8+5+6": [
+            "Chiseled Resin Bricks",
+            "Chiseled Stone Bricks",
+            "Infested Stone Bricks"
+        ],
+        "L8+4+6": [
+            "Chiseled Tuff Bricks",
+            "Polished Tuff Stairs"
+        ],
+        "L7+9+4": [
+            "Cobbled Deepslate Slab",
+            "Cobbled Deepslate Wall"
+        ],
+        "L7+9+6": [
+            "Cobbled Deepslate Stairs",
+            "Cracked Deepslate Bricks"
+        ],
+        "L6+5+6": [
+            "Copper Golem Statue",
+            "Nether Brick Stairs"
+        ],
+        "L7+9+5": [
+            "Cracked Deepslate Tiles"
+        ],
+        "L7+6+6": [
+            "Cracked Nether Bricks"
+        ],
+        "L7+5+6": [
+            "Cracked Stone Bricks"
+        ],
+        "L7+5+4": [
+            "Crimson Fence Gate"
+        ],
+        "L7+7+4": [
+            "Crimson Hanging Sign"
+        ],
+        "L7+8+5": [
+            "Crimson Pressure Plate"
+        ],
+        "L3+6+4": [
+            "Cut Copper Slab"
+        ],
+        "L3+6+6": [
+            "Cut Copper Stairs",
+            "Red Nether Bricks"
+        ],
+        "L3+3+9": [
+            "Cut Red Sandstone"
+        ],
+        "L3+9+4": [
+            "Cut Sandstone Slab",
+            "Red Sandstone Slab",
+            "Red Sandstone Wall"
+        ],
+        "L4+3+6": [
+            "Dark Oak Button",
+            "Dark Oak Leaves",
+            "Dark Oak Planks",
+            "Dark Oak Stairs",
+            "Pale Oak Button",
+            "Pale Oak Leaves",
+            "Pale Oak Planks",
+            "Pale Oak Stairs"
+        ],
+        "L4+3+4": [
+            "Dark Oak Door",
+            "Dark Oak Sign",
+            "Dark Oak Slab",
+            "Dark Oak Wood",
+            "Pale Oak Door",
+            "Pale Oak Sign",
+            "Pale Oak Slab",
+            "Pale Oak Wood"
+        ],
+        "L4+3+5": [
+            "Dark Oak Fence",
+            "Dark Oak Shelf",
+            "Pale Oak Fence",
+            "Pale Oak Shelf",
+            "Tall Dry Grass"
+        ],
+        "L4+3+3": [
+            "Dark Oak Log",
+            "Pale Oak Log"
+        ],
+        "L4+3+7": [
+            "Dark Oak Sapling",
+            "Pale Oak Sapling"
+        ],
+        "L4+3+8": [
+            "Dark Oak Trapdoor",
+            "Pale Oak Trapdoor"
+        ],
+        "L4+10+4": [
+            "Dark Prismarine Slab"
+        ],
+        "L4+10+6": [
+            "Dark Prismarine Stairs"
+        ],
+        "L4+5+5": [
+            "Dead Brain Coral",
+            "Fire Coral Block",
+            "Horn Coral Block",
+            "Tube Coral Block"
+        ],
+        "L4+6+5": [
+            "Dead Bubble Coral"
+        ],
+        "L4+4+5": [
+            "Dead Fire Coral",
+            "Dead Horn Coral",
+            "Dead Tube Coral",
+            "Pale Moss Block"
+        ],
+        "L9+5+4": [
+            "Deepslate Brick Slab",
+            "Deepslate Brick Wall"
+        ],
+        "L9+5+6": [
+            "Deepslate Brick Stairs"
+        ],
+        "L9+4+3": [
+            "Deepslate Coal Ore",
+            "Deepslate Gold Ore",
+            "Deepslate Iron Ore"
+        ],
+        "L9+6+3": [
+            "Deepslate Copper Ore"
+        ],
+        "L9+7+3": [
+            "Deepslate Diamond Ore",
+            "Deepslate Emerald Ore"
+        ],
+        "L9+8+3": [
+            "Deepslate Redstone Ore"
+        ],
+        "L9+4+4": [
+            "Deepslate Tile Slab",
+            "Deepslate Tile Wall"
+        ],
+        "L9+4+6": [
+            "Deepslate Tile Stairs"
+        ],
+        "L5+4+5": [
+            "Dried Kelp Block"
+        ],
+        "L3+6+5": [
+            "End Portal Frame"
+        ],
+        "L3+5+6": [
+            "End Stone Bricks",
+            "Mud Brick Stairs"
+        ],
+        "L7+8+6": [
+            "Exposed Chiseled Copper",
+            "Magenta Concrete Powder"
+        ],
+        "L7+6+4": [
+            "Exposed Copper Bars",
+            "Exposed Copper Bulb",
+            "Exposed Copper Door"
+        ],
+        "L7+6+5": [
+            "Exposed Copper Chain",
+            "Exposed Copper Chest",
+            "Exposed Copper Grate"
+        ],
+        "L7+6+7": [
+            "Exposed Copper Lantern"
+        ],
+        "L7+6+8": [
+            "Exposed Copper Trapdoor"
+        ],
+        "L7+3+6": [
+            "Exposed Cut Copper"
+        ],
+        "L7+9+3": [
+            "Exposed Lightning Rod"
+        ],
+        "L4+5+3": [
+            "Fire Coral Fan",
+            "Horn Coral Fan",
+            "Tube Coral Fan"
+        ],
+        "L9+6+6": [
+            "Flowering Azalea Leaves"
+        ],
+        "L5+6+3": [
+            "Lapis Lazuli Ore"
+        ],
+        "L5+8+3": [
+            "Large Amethyst Bud",
+            "Small Amethyst Bud"
+        ],
+        "L5+4+6": [
+            "Light Blue Banner",
+            "Light Blue Candle",
+            "Light Blue Carpet",
+            "Light Gray Banner",
+            "Light Gray Candle",
+            "Light Gray Carpet"
+        ],
+        "L5+4+3": [
+            "Light Blue Bed",
+            "Light Gray Bed"
+        ],
+        "L5+4+8": [
+            "Light Blue Concrete",
+            "Light Gray Concrete"
+        ],
+        "L5+4+10": [
+            "Light Blue Terracotta",
+            "Light Gray Terracotta"
+        ],
+        "L5+4+4": [
+            "Light Blue Wool",
+            "Light Gray Wool"
+        ],
+        "L7+6+10": [
+            "Magenta Glazed Terracotta"
+        ],
+        "L7+7+3": [
+            "Magenta Shulker Box"
+        ],
+        "L7+7+5": [
+            "Magenta Stained Glass"
+        ],
+        "L8+5+4": [
+            "Mangrove Fence Gate",
+            "Stripped Birch Wood",
+            "Hardened Glass Pane"
+        ],
+        "L8+7+4": [
+            "Mangrove Hanging Sign",
+            "Polished Diorite Slab",
+            "Polished Granite Slab",
+            "Stripped Crimson Stem"
+        ],
+        "L8+8+5": [
+            "Mangrove Pressure Plate"
+        ],
+        "L6+8+3": [
+            "Medium Amethyst Bud"
+        ],
+        "L5+11+4": [
+            "Mossy Cobblestone Slab",
+            "Mossy Cobblestone Wall"
+        ],
+        "L5+11+6": [
+            "Mossy Cobblestone Stairs"
+        ],
+        "L5+5+6": [
+            "Mossy Stone Bricks",
+            "Resin Brick Stairs",
+            "Stone Brick Stairs"
+        ],
+        "L3+5+4": [
+            "Mud Brick Slab",
+            "Mud Brick Wall",
+            "Oak Fence Gate"
+        ],
+        "L6+4+3": [
+            "Nether Gold Ore"
+        ],
+        "L6+6+3": [
+            "Nether Quartz Ore"
+        ],
+        "L6+4+5": [
+            "Nether Wart Block",
+            "Warped Wart Block"
+        ],
+        "L3+7+4": [
+            "Oak Hanging Sign"
+        ],
+        "L3+8+5": [
+            "Oak Pressure Plate",
+            "Red Mushroom Block"
+        ],
+        "L6+8+6": [
+            "Orange Concrete Powder",
+            "Purple Concrete Powder",
+            "Yellow Concrete Powder"
+        ],
+        "L6+6+10": [
+            "Orange Glazed Terracotta",
+            "Purple Glazed Terracotta",
+            "Yellow Glazed Terracotta"
+        ],
+        "L6+7+3": [
+            "Orange Shulker Box",
+            "Purple Shulker Box",
+            "Yellow Shulker Box"
+        ],
+        "L6+7+5": [
+            "Orange Stained Glass",
+            "Purple Stained Glass",
+            "Yellow Stained Glass"
+        ],
+        "L8+8+6": [
+            "Oxidized Chiseled Copper",
+            "Polished Andesite Stairs"
+        ],
+        "L8+6+4": [
+            "Oxidized Copper Bars",
+            "Oxidized Copper Bulb",
+            "Oxidized Copper Door",
+            "Stripped Acacia Wood",
+            "Stripped Cherry Wood",
+            "Stripped Jungle Wood",
+            "Stripped Spruce Wood",
+            "Stripped Warped Stem"
+        ],
+        "L8+6+7": [
+            "Oxidized Copper Lantern"
+        ],
+        "L8+6+8": [
+            "Oxidized Copper Trapdoor"
+        ],
+        "L8+3+6": [
+            "Oxidized Cut Copper"
+        ],
+        "L8+9+3": [
+            "Oxidized Lightning Rod"
+        ],
+        "L4+7+4": [
+            "Pale Hanging Moss"
+        ],
+        "L4+4+6": [
+            "Pale Moss Carpet"
+        ],
+        "L9+3+4": [
+            "Petrified Oak Slab"
+        ],
+        "L8+8+4": [
+            "Polished Andesite Slab",
+            "Stripped Mangrove Wood"
+        ],
+        "L8+10+6": [
+            "Polished Blackstone Bricks",
+            "Polished Blackstone Button",
+            "Polished Blackstone Stairs"
+        ],
+        "L8+10+4": [
+            "Polished Blackstone Slab",
+            "Polished Blackstone Wall"
+        ],
+        "L8+7+6": [
+            "Polished Diorite Stairs",
+            "Polished Granite Stairs",
+            "Stripped Crimson Hyphae"
+        ],
+        "L8+9+4": [
+            "Polished Deepslate Slab",
+            "Polished Deepslate Wall"
+        ],
+        "L8+9+6": [
+            "Polished Deepslate Stairs"
+        ],
+        "L8+4+4": [
+            "Polished Tuff Slab",
+            "Polished Tuff Wall"
+        ],
+        "L10+5+4": [
+            "Prismarine Brick Slab"
+        ],
+        "L3+8+6": [
+            "Red Concrete Powder"
+        ],
+        "L3+6+10": [
+            "Red Glazed Terracotta"
+        ],
+        "L3+9+6": [
+            "Red Sandstone Stairs"
+        ],
+        "L3+7+3": [
+            "Red Shulker Box"
+        ],
+        "L3+7+5": [
+            "Red Stained Glass"
+        ],
+        "L9+7+5": [
+            "Repeating Command Block"
+        ],
+        "L5+3+5": [
+            "Short Dry Grass"
+        ],
+        "L6+6+5": [
+            "Smooth Quartz Block"
+        ],
+        "L6+3+9": [
+            "Smooth Red Sandstone"
+        ],
+        "L6+9+4": [
+            "Smooth Sandstone Slab"
+        ],
+        "L6+9+6": [
+            "Smooth Sandstone Stairs"
+        ],
+        "L8+6+3": [
+            "Stripped Acacia Log",
+            "Stripped Cherry Log",
+            "Stripped Jungle Log",
+            "Stripped Spruce Log"
+        ],
+        "L8+5+3": [
+            "Stripped Birch Log"
+        ],
+        "L8+8+3": [
+            "Stripped Mangrove Log"
+        ],
+        "L8+3+3": [
+            "Stripped Oak Log"
+        ],
+        "L8+3+4": [
+            "Stripped Oak Wood"
+        ],
+        "L4+8+5": [
+            "Test Instance Block"
+        ],
+        "L4+5+4": [
+            "Tuff Brick Slab",
+            "Tuff Brick Wall"
+        ],
+        "L4+5+6": [
+            "Tuff Brick Stairs"
+        ],
+        "L5+6+4": [
+            "Waxed Copper Bars",
+            "Waxed Copper Bulb",
+            "Waxed Copper Door"
+        ],
+        "L5+6+5": [
+            "Waxed Copper Chain",
+            "Waxed Copper Chest",
+            "Waxed Copper Grate"
+        ],
+        "L5+6+7": [
+            "Waxed Copper Lantern"
+        ],
+        "L5+6+8": [
+            "Waxed Copper Trapdoor"
+        ],
+        "L5+3+6": [
+            "Waxed Cut Copper"
+        ],
+        "L5+7+6": [
+            "Waxed Exposed Copper"
+        ],
+        "L5+9+3": [
+            "Waxed Lightning Rod"
+        ],
+        "L5+9+6": [
+            "Waxed Weathered Copper"
+        ],
+        "L9+8+6": [
+            "Weathered Chiseled Copper"
+        ],
+        "L9+6+4": [
+            "Weathered Copper Bars",
+            "Weathered Copper Bulb",
+            "Weathered Copper Door"
+        ],
+        "L9+6+5": [
+            "Weathered Copper Chain",
+            "Weathered Copper Chest",
+            "Weathered Copper Grate"
+        ],
+        "L9+6+7": [
+            "Weathered Copper Lantern"
+        ],
+        "L9+6+8": [
+            "Weathered Copper Trapdoor"
+        ],
+        "L9+3+6": [
+            "Weathered Cut Copper"
+        ],
+        "L9+9+3": [
+            "Weathered Lightning Rod"
+        ]
+    },
+    "W4": {
+        "L5+7+5+4": [
+            "Black Stained Glass Pane",
+            "Brown Stained Glass Pane",
+            "Green Stained Glass Pane",
+            "White Stained Glass Pane"
+        ],
+        "L5+2+5+6": [
+            "Block of Lapis Lazuli"
+        ],
+        "L5+2+3+6": [
+            "Block of Raw Copper"
+        ],
+        "L5+2+3+4": [
+            "Block of Raw Gold",
+            "Block of Raw Iron"
+        ],
+        "L5+2+8+6": [
+            "Block of Stripped Bamboo"
+        ],
+        "L4+7+5+4": [
+            "Blue Stained Glass Pane",
+            "Cyan Stained Glass Pane",
+            "Gray Stained Glass Pane",
+            "Lime Stained Glass Pane",
+            "Pink Stained Glass Pane"
+        ],
+        "L7+8+10+6": [
+            "Cracked Polished Blackstone Bricks"
+        ],
+        "L3+3+9+4": [
+            "Cut Red Sandstone Slab"
+        ],
+        "L4+3+5+4": [
+            "Dark Oak Fence Gate",
+            "Pale Oak Fence Gate"
+        ],
+        "L4+3+7+4": [
+            "Dark Oak Hanging Sign",
+            "Pale Oak Hanging Sign"
+        ],
+        "L4+3+8+5": [
+            "Dark Oak Pressure Plate",
+            "Pale Oak Pressure Plate"
+        ],
+        "L4+5+5+5": [
+            "Dead Brain Coral Block"
+        ],
+        "L4+5+5+3": [
+            "Dead Brain Coral Fan"
+        ],
+        "L4+6+5+5": [
+            "Dead Bubble Coral Block"
+        ],
+        "L4+6+5+3": [
+            "Dead Bubble Coral Fan"
+        ],
+        "L4+4+5+5": [
+            "Dead Fire Coral Block",
+            "Dead Horn Coral Block",
+            "Dead Tube Coral Block"
+        ],
+        "L4+4+5+3": [
+            "Dead Fire Coral Fan",
+            "Dead Horn Coral Fan",
+            "Dead Tube Coral Fan"
+        ],
+        "L9+5+6+3": [
+            "Deepslate Lapis Lazuli Ore"
+        ],
+        "L3+5+5+4": [
+            "End Stone Brick Slab",
+            "End Stone Brick Wall"
+        ],
+        "L3+5+5+6": [
+            "End Stone Brick Stairs"
+        ],
+        "L7+6+5+6": [
+            "Exposed Copper Golem Statue"
+        ],
+        "L7+3+6+4": [
+            "Exposed Cut Copper Slab"
+        ],
+        "L7+3+6+6": [
+            "Exposed Cut Copper Stairs"
+        ],
+        "L5+8+8+5": [
+            "Heavy Weighted Pressure Plate",
+            "Light Weighted Pressure Plate"
+        ],
+        "L8+8+5+6": [
+            "Infested Chiseled Stone Bricks"
+        ],
+        "L8+7+5+6": [
+            "Infested Cracked Stone Bricks"
+        ],
+        "L8+5+5+6": [
+            "Infested Mossy Stone Bricks"
+        ],
+        "L5+4+8+6": [
+            "Light Blue Concrete Powder",
+            "Light Gray Concrete Powder"
+        ],
+        "L5+4+6+10": [
+            "Light Blue Glazed Terracotta",
+            "Light Gray Glazed Terracotta"
+        ],
+        "L5+4+7+3": [
+            "Light Blue Shulker Box",
+            "Light Gray Shulker Box"
+        ],
+        "L5+4+7+5": [
+            "Light Blue Stained Glass",
+            "Light Gray Stained Glass"
+        ],
+        "L4+2+3+6": [
+            "Lily of the Valley"
+        ],
+        "L7+7+5+4": [
+            "Magenta Stained Glass Pane"
+        ],
+        "L5+5+5+4": [
+            "Mossy Stone Brick Slab",
+            "Mossy Stone Brick Wall"
+        ],
+        "L5+5+5+6": [
+            "Mossy Stone Brick Stairs"
+        ],
+        "L6+7+5+4": [
+            "Orange Stained Glass Pane",
+            "Purple Stained Glass Pane",
+            "Yellow Stained Glass Pane"
+        ],
+        "L8+6+5+6": [
+            "Oxidized Copper Golem Statue"
+        ],
+        "L8+3+6+4": [
+            "Oxidized Cut Copper Slab"
+        ],
+        "L8+3+6+6": [
+            "Oxidized Cut Copper Stairs"
+        ],
+        "L8+10+5+4": [
+            "Polished Blackstone Brick Slab",
+            "Polished Blackstone Brick Wall"
+        ],
+        "L8+10+5+6": [
+            "Polished Blackstone Brick Stairs"
+        ],
+        "L8+10+8+5": [
+            "Polished Blackstone Pressure Plate"
+        ],
+        "L3+6+5+4": [
+            "Red Nether Brick Slab",
+            "Red Nether Brick Wall"
+        ],
+        "L3+6+5+6": [
+            "Red Nether Brick Stairs"
+        ],
+        "L3+7+5+4": [
+            "Red Stained Glass Pane"
+        ],
+        "L6+3+9+4": [
+            "Smooth Red Sandstone Slab"
+        ],
+        "L6+3+9+6": [
+            "Smooth Red Sandstone Stairs"
+        ],
+        "L8+4+3+3": [
+            "Stripped Dark Oak Log",
+            "Stripped Pale Oak Log"
+        ],
+        "L8+4+3+4": [
+            "Stripped Dark Oak Wood",
+            "Stripped Pale Oak Wood"
+        ],
+        "L5+5+2+6": [
+            "Waxed Block of Copper"
+        ],
+        "L5+6+5+6": [
+            "Waxed Copper Golem Statue"
+        ],
+        "L5+3+6+4": [
+            "Waxed Cut Copper Slab"
+        ],
+        "L5+3+6+6": [
+            "Waxed Cut Copper Stairs"
+        ],
+        "L5+7+8+6": [
+            "Waxed Exposed Chiseled Copper"
+        ],
+        "L5+7+6+4": [
+            "Waxed Exposed Copper Bars",
+            "Waxed Exposed Copper Bulb",
+            "Waxed Exposed Copper Door"
+        ],
+        "L5+7+6+5": [
+            "Waxed Exposed Copper Chain",
+            "Waxed Exposed Copper Chest",
+            "Waxed Exposed Copper Grate"
+        ],
+        "L5+7+6+7": [
+            "Waxed Exposed Copper Lantern"
+        ],
+        "L5+7+6+8": [
+            "Waxed Exposed Copper Trapdoor"
+        ],
+        "L5+7+3+6": [
+            "Waxed Exposed Cut Copper"
+        ],
+        "L5+7+9+3": [
+            "Waxed Exposed Lightning Rod"
+        ],
+        "L5+8+8+6": [
+            "Waxed Oxidized Chiseled Copper"
+        ],
+        "L5+8+6+4": [
+            "Waxed Oxidized Copper Bars",
+            "Waxed Oxidized Copper Bulb",
+            "Waxed Oxidized Copper Door"
+        ],
+        "L5+8+6+5": [
+            "Waxed Oxidized Copper Chain",
+            "Waxed Oxidized Copper Chest",
+            "Waxed Oxidized Copper Grate"
+        ],
+        "L5+8+6+7": [
+            "Waxed Oxidized Copper Lantern"
+        ],
+        "L5+8+6+8": [
+            "Waxed Oxidized Copper Trapdoor"
+        ],
+        "L5+8+3+6": [
+            "Waxed Oxidized Cut Copper"
+        ],
+        "L5+8+9+3": [
+            "Waxed Oxidized Lightning Rod"
+        ],
+        "L5+9+8+6": [
+            "Waxed Weathered Chiseled Copper"
+        ],
+        "L5+9+6+4": [
+            "Waxed Weathered Copper Bars",
+            "Waxed Weathered Copper Bulb",
+            "Waxed Weathered Copper Door"
+        ],
+        "L5+9+6+5": [
+            "Waxed Weathered Copper Chain",
+            "Waxed Weathered Copper Chest",
+            "Waxed Weathered Copper Grate"
+        ],
+        "L5+9+6+7": [
+            "Waxed Weathered Copper Lantern"
+        ],
+        "L5+9+6+8": [
+            "Waxed Weathered Copper Trapdoor"
+        ],
+        "L5+9+3+6": [
+            "Waxed Weathered Cut Copper"
+        ],
+        "L5+9+9+3": [
+            "Waxed Weathered Lightning Rod"
+        ],
+        "L9+6+5+6": [
+            "Weathered Copper Golem Statue"
+        ],
+        "L9+3+6+4": [
+            "Weathered Cut Copper Slab"
+        ],
+        "L9+3+6+6": [
+            "Weathered Cut Copper Stairs"
+        ],
+        "L8+5+7+5": [
+            "Hardened Black Stained Glass",
+            "Hardened Brown Stained Glass",
+            "Hardened Green Stained Glass",
+            "Hardened White Stained Glass"
+        ],
+        "L8+4+7+5": [
+            "Hardened Blue Stained Glass",
+            "Hardened Cyan Stained Glass",
+            "Hardened Gray Stained Glass",
+            "Hardened Lime Stained Glass",
+            "Hardened Pink Stained Glass"
+        ],
+        "L8+7+7+5": [
+            "Hardened Magenta Stained Glass"
+        ],
+        "L8+6+7+5": [
+            "Hardened Orange Stained Glass",
+            "Hardened Purple Stained Glass",
+            "Hardened Yellow Stained Glass"
+        ],
+        "L8+3+7+5": [
+            "Hardened Red Stained Glass"
+        ]
+    },
+    "W5": {
+        "L5+4+7+5+4": [
+            "Light Blue Stained Glass Pane",
+            "Light Gray Stained Glass Pane"
+        ],
+        "L5+7+6+5+6": [
+            "Waxed Exposed Copper Golem Statue"
+        ],
+        "L5+7+3+6+4": [
+            "Waxed Exposed Cut Copper Slab"
+        ],
+        "L5+7+3+6+6": [
+            "Waxed Exposed Cut Copper Stairs"
+        ],
+        "L5+8+6+5+6": [
+            "Waxed Oxidized Copper Golem Statue"
+        ],
+        "L5+8+3+6+4": [
+            "Waxed Oxidized Cut Copper Slab"
+        ],
+        "L5+8+3+6+6": [
+            "Waxed Oxidized Cut Copper Stairs"
+        ],
+        "L5+9+6+5+6": [
+            "Waxed Weathered Copper Golem Statue"
+        ],
+        "L5+9+3+6+4": [
+            "Waxed Weathered Cut Copper Slab"
+        ],
+        "L5+9+3+6+6": [
+            "Waxed Weathered Cut Copper Stairs"
+        ],
+        "L8+5+7+5+4": [
+            "Hardened Black Stained Glass Pane",
+            "Hardened Brown Stained Glass Pane",
+            "Hardened Green Stained Glass Pane",
+            "Hardened White Stained Glass Pane"
+        ],
+        "L8+4+7+5+4": [
+            "Hardened Blue Stained Glass Pane",
+            "Hardened Cyan Stained Glass Pane",
+            "Hardened Gray Stained Glass Pane",
+            "Hardened Lime Stained Glass Pane",
+            "Hardened Pink Stained Glass Pane"
+        ],
+        "L8+5+4+7+5": [
+            "Hardened Light Blue Stained Glass",
+            "Hardened Light Gray Stained Glass"
+        ],
+        "L8+7+7+5+4": [
+            "Hardened Magenta Stained Glass Pane"
+        ],
+        "L8+6+7+5+4": [
+            "Hardened Orange Stained Glass Pane",
+            "Hardened Purple Stained Glass Pane",
+            "Hardened Yellow Stained Glass Pane"
+        ],
+        "L8+3+7+5+4": [
+            "Hardened Red Stained Glass Pane"
+        ]
+    },
+    "W6": {
+        "L8+5+4+7+5+4": [
+            "Hardened Light Blue Stained Glass Pane",
+            "Hardened Light Gray Stained Glass Pane"
+        ]
+    }
+}
