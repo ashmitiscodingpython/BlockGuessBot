@@ -15,6 +15,13 @@ blocks = open("Blocks.txt", "r").read().split("\n")
 app = App(token='xoxb-2210535565-10464203332802-iIVPjrhLk2jZG4Hfpw7FYf3T')
 flask_app = flask.Flask(__name__)
 
+def difficultify(diff: str):
+    spli = diff.split("_")
+    full = ''
+    for word in spli:
+        full += word + ' '
+    return caseify(full[:-1])
+
 def caseify(text: str):
     words = text.split(" ")
     casified = []
@@ -74,9 +81,9 @@ def handle_match_command(respond, ack, body, client, logger):
         if chosen == body["user_id"] and not chosen == "U09PH1UUF6K":
             respond("You can't play against yourself!", response_type="ephemeral")
             return
-    difficulty = parameters[0]
+    difficulty = difficultify(parameters[0])
     timestamp = post_message(client, body["channel_id"], f"Match: <@{body['user_id']}> V/S <@{chosen}> in this thread!")
-    post_message(client, body["channel_id"], f"<@{body['user_id']}> starts by choosing a block! Please choose your block outside the thread due to Slack bot limitations. Remember, the difficulty is {caseify(difficulty)}. Choose accordingly.", thread_ts=timestamp)
+    post_message(client, body["channel_id"], f"<@{body['user_id']}> starts by choosing a block! Please choose your block outside the thread due to Slack bot limitations. Remember, the difficulty is {difficulty}. Choose accordingly.", thread_ts=timestamp)
     match_id += 1
     matches[match_id] = {"initiator": body["user_id"], "matched": chosen, "ts": timestamp, "stage": 0, "Block 1": None, "Block 2": None, "Points": [0, 0], "diff": difficulty}
     if not body["user_id"] in ciam:
