@@ -8,7 +8,7 @@ import time
 import flask
 
 dotenv.load_dotenv()
-matches = {}
+matches: dict = {}
 ciam = []  # Currently In A Match
 match_id = 5
 blocks = open("Blocks.txt", "r").read().split("\n")
@@ -98,8 +98,8 @@ def handle_block_choose_command(ack, body, respond, client, logger):
     sent = body["user_id"]
     text = caseify(body["text"])
     if sent in ciam:
-        for match_id in matches:
-            matchx = matches[match_id]
+        for id in matches:
+            matchx = matches[id]
             if matchx["stage"] == 0:
                 if sent == matchx["initiator"]:
                     if text in blocks:
@@ -177,6 +177,7 @@ def handle_message_events(ack, body: dict, client, logger):
                             f"Oh wait, it's a draw! Well then, better luck next time <@{matchx['initiator']}> AND <@{matchx['matched']}>!",
                             matchx["ts"]
                         )
+                    matches.pop(id)
                 else:
                     if matchx["matched"] == info["user"] and matchx["stage"] == 0 and "[REMINDER]" not in info["text"]:
                         matchx["Points"][0] += 1
